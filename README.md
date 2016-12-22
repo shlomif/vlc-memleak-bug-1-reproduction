@@ -5,7 +5,7 @@ Run `sh down.sh` to download the files from YouTube - you'll need
 
 Run `sh run-vlc.sh` to start VLC.
 
-Run `perl stress-vlc.pl` to swich videos rapidly and cause the leak. You'll
+Run `perl stress-vlc.pl` to switch videos rapidly and cause the leak. You'll
 need Perl 5 and https://metacpan.org/release/Net-Telnet . Observe its memory
 use in top or htop.
 
